@@ -1,0 +1,58 @@
+body.register-body {
+     /* background-color: #94bff55d; xxxx*/
+     /* background-color: #36d1dc; */
+    
+     
+     background: #258dc8; /* Old browsers */
+     background: -moz-linear-gradient(top, #258dc8 0%, #258dc8 100%); /* FF3.6-15 */
+     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#258dc8), color-stop(100%,#258dc8)); /* Chrome4-9,Safari4-5 */
+     background: -webkit-linear-gradient(top, #258dc8 0%,#258dc8 100%); /* Chrome10-25,Safari5.1-6 */
+     background: -o-linear-gradient(top, #258dc8 0%,#258dc8 100%); /* Opera 11.10-11.50 */
+     background: -ms-linear-gradient(top, #258dc8 0%,#258dc8 100%); /* IE10 preview */
+     background: linear-gradient(to bottom, #258dc8 0%,#258dc8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#258dc8', endColorstr='#258dc8',GradientType=0 ); /* IE6-9 */
+}
+
+.container.register-container{
+     margin-top: 15%;
+
+}
+
+.card.register-card{
+     padding: 40x 0px 20px;
+     background-color: #fffefe;
+     box-shadow: 1px 1px 6px rgb(0,0,0,.1);
+
+}
+
+img.register-img{
+     padding: 0 2rem 2rem;
+     margin: auto;
+     display: block;
+
+}
+
+form.register-form{
+     max-width: 350px;
+     margin: auto;
+
+
+}
+
+button.register-btn{
+color: #ffffff;
+background-color: #5294e2;
+width: 100%;
+margin-bottom: 1.2rem;
+
+}
+
+
+a.create-new-account {
+     color: #ffffff;
+     font-size: 1.2rem;
+     text-align: center;
+     display: block;
+     margin-top: 15px;
+
+}
